@@ -1,2 +1,2 @@
-# Noskidium
-Sigma boy, No Skid, My New malware
+# Skidium
+Sigma boy, Skid, My New malware
